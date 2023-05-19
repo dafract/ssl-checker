@@ -3,7 +3,7 @@
 ## How to usage
 run the following command
 ```sh
-$ bash ssl-check www.example.com
+$ bash ssl-check.sh www.example.com
 ```
 
 then you will get the following response

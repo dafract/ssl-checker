@@ -1,6 +1,6 @@
 # ssl-cheker
 
-## How to usage
+## How to use
 run the following command
 ```sh
 $ bash ssl-check.sh www.example.com

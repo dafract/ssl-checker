@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
 FQDN=$1
 if [ $# -gt 1 ]; then
